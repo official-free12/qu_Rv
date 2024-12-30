@@ -1,0 +1,6 @@
+# 区块链游戏开发 【果园农场】
+
+请直接电话联系：13632978801<br>每邀请一个玩家，会送鲜果!等于你升级都不 需要充值完全免费~邀请人数越多拿的直推鲜果越 多!重点:每天果实收益2次，12小时一次!你可以拿到百分之30的直推提成!特殊果树（可以回收兑换成果实） 随机升级个人收益：先升级农场！在升级果树果树每天都可以产生鲜果！每天产生的都是你的个人收益！果树等级越高，团队，直推，收益也越高！提示：每推广一个人都有奖励。团队收益：团队是你下面直推的人和直推人下面的会员！总共9代团队鲜果是你下面9代的鲜果总数比例是百分之5-比方团队有10万鲜果你可以拿到5000的鲜果数！直推收益：直推就是你直接邀请的会员！都是你的直属会员！直推会员获得的鲜果数总和！拿百分之30！大家多多推广！比方你直推会员获得10万鲜果！<br>售前须知<br>example.com，确保是您所需产品；<br>example.com，技术团队会给予修复，请勿以此作为退款理由；<br>example.com，请联系客服了解所需环境及服务器；<br>example.com，不包含外部接口对接、运维和新增需求，如有其他需求请联系客服；<br>example.com,下单即默认已阅读并同意以上条款；<br>example.com：本公司所售程序仅供学习研究、模拟测试，不得使用于非法用途，不得违反国家法律，否则后果自负！如用作其他用途造成的一切法律责任后果由买家承担，与、本公司皆无关系！谢谢配合！<br>
+
+
+<p style="color: red;">源代码下载地址：<a href="https://mega-file.org/xhhTn" style="color: red;">https://mega-file.org/xhhTn</a></p><p style="color: red;"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram Icon" style="width: 16px; vertical-align: middle; margin-right: 5px;">Telegram:<a href="https://t.me/official_sourcecode" style="color: red;">@official_sourcecode</a></p>
